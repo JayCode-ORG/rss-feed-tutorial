@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<rss>
+<rss version="2.0">
 	<channel>
 		<title>RSS Feed Tutorial</title>
 		<guid isPermaLink="true">https://zombtribe.ml/news</guid>
