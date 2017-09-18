@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss>
+	<channel>
+		<title>RSS Feed Tutorial</title>
+		<guid isPermaLink="true">https://zombtribe.ml/news</guid>
+    		<description>Rss Feed Tutorial by JayCode</description>
+    		<item>
+      			<title>IMPORTANT TRIBAL UPDATE: New Tribe Divisions Coming Soon, Along With Websites To Go Along With Them!</title>
+      			<guid isPermaLink="true">https://zombtribe.ml/news/posts/2017/September/6/17.26.25</guid>
+      			<description>Just as the title of this post suggests, we will be having new Tribe Divisions, EU & NZ/AU! And...</description>
+      			<pubDate>2017-09-06 1726 -0700</pubDate>
+    		</item>
+	</channel>
+</rss>
