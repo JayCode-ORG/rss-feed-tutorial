@@ -5,5 +5,5 @@ A basic tutorial of How to Create a Really Simple Syndication (RSS) Feed File Fr
 # EDIT:
 
 +-------------------------------+
-| ADDED SOURCE CODE FOR TUTORIAL|
+| ADDED SOURCE CODE FOR TUTORIAL |
 +-------------------------------+
